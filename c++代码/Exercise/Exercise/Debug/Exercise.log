@@ -1,0 +1,3 @@
+﻿  有趣的数.cpp
+e:\c++代码\ccf练习\有趣的数.cpp(8): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+  Exercise.vcxproj -> E:\c++代码\Exercise\Debug\Exercise.exe
